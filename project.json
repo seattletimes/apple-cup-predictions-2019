@@ -1,0 +1,23 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "authorized-infliction"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/apple-cup-predictions"
+    }
+  },
+  "title": "Apple Cup Pick 'Em 2018",
+  "description": "Huskies or Cougars: Who ya got? Make your pick and see how it matches up against our experts and other fans.",
+  "url": "https://projects.seattletimes.com/2018/apple-cup-predictions/",
+  "image": "assets/AppleCup2018-teaser.gif",
+  "sheets": ["1HBCH60-vVdsuvS2Lm0JuZ1vzHFYQ8zJyN638eWATljk"],
+  "production": true,
+  "embedded": false,
+  "teams": {
+    "home": "Huskies",
+    "opposing": "Cougars"
+  }
+}
